@@ -1,0 +1,143 @@
+{
+    "doodles": [
+        {
+            "width": 50,
+            "height": 50,
+            "density": 0.002,
+            "label": "Circle"
+        },
+        {
+            "width": 100,
+            "height": 40,
+            "density": 0.001,
+            "label": "Rectangle"
+        },
+        {
+            "width": 200,
+            "height": 5,
+            "density": 0.0005,
+            "label": "Horizontal Line"
+        },
+        {
+            "width": 89,
+            "height": 123,
+            "density": 0.002648885641213007,
+            "curve_factor": 1.2073038313109767,
+            "label": "Rectangle or Square"
+        },
+        {
+            "width": 170,
+            "height": 149,
+            "density": 0.003987209348229442,
+            "curve_factor": 0.8050021018368415,
+            "label": "Circle"
+        },
+        {
+            "width": 212,
+            "height": 151,
+            "density": 0.0037172398713022836,
+            "curve_factor": 0.6457060026736832,
+            "label": "Rectangle"
+        },
+        {
+            "width": 266,
+            "height": 120,
+            "density": 0.0017543310046677736,
+            "curve_factor": 0.4414143307953779,
+            "aspect_ratio": 2.1983471074380163,
+            "centroid_x": 271,
+            "centroid_y": 202,
+            "label": "Triangle"
+        },
+        {
+            "width": 274,
+            "height": 239,
+            "density": 0.001633912074152122,
+            "curve_factor": 0.7981486040841669,
+            "aspect_ratio": 1.1416666666666666,
+            "centroid_x": 265,
+            "centroid_y": 205,
+            "label": "Circle"
+        },
+        {
+            "width": 289,
+            "height": 144,
+            "density": 0.00204243458202177,
+            "curve_factor": 0.44324844298073,
+            "aspect_ratio": 1.993103448275862,
+            "centroid_x": 262,
+            "centroid_y": 322,
+            "label": "Rectangle"
+        },
+        {
+            "width": 367,
+            "height": 125,
+            "density": 0.0016784375272473624,
+            "curve_factor": 0.3327278215772282,
+            "aspect_ratio": 2.9126984126984126,
+            "centroid_x": 290,
+            "centroid_y": 262,
+            "label": "Rectangle"
+        },
+        {
+            "width": 244,
+            "height": 151,
+            "density": 0.006730899715022391,
+            "curve_factor": 0.6170309140827636,
+            "aspect_ratio": 1.605263157894737,
+            "centroid_x": 211,
+            "centroid_y": 256,
+            "label": "Triangle"
+        },
+        {
+            "width": 315,
+            "height": 210,
+            "density": 0.0026303457241765053,
+            "curve_factor": 0.5804683797197199,
+            "aspect_ratio": 1.4928909952606635,
+            "centroid_x": 244,
+            "centroid_y": 240,
+            "label": "Triangle"
+        },
+        {
+            "width": 9,
+            "height": 159,
+            "density": 0.012569832402234637,
+            "curve_factor": 12.584303956889226,
+            "aspect_ratio": 0.05625,
+            "centroid_x": 235,
+            "centroid_y": 221,
+            "label": "Line"
+        },
+        {
+            "width": 268,
+            "height": 223,
+            "density": 0.0019242031289216097,
+            "curve_factor": 0.885938760711566,
+            "aspect_ratio": 1.1964285714285714,
+            "centroid_x": 282,
+            "centroid_y": 288,
+            "label": "Circle"
+        },
+        {
+            "width": 190,
+            "height": 207,
+            "density": 0.0010170094836134346,
+            "curve_factor": 0.8308876198987045,
+            "aspect_ratio": 0.9134615384615384,
+            "centroid_x": 289,
+            "centroid_y": 317,
+            "label": "Triangle"
+        },
+        {
+            "width": 186,
+            "height": 149,
+            "density": 0.0022009742016958324,
+            "curve_factor": 0.7343534152874084,
+            "aspect_ratio": 1.24,
+            "centroid_x": 248,
+            "centroid_y": 237,
+            "label": "Circle"
+        }
+    ]
+}
